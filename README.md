@@ -11,7 +11,9 @@ The MultiPDF Chat App is a Python application that allows you to chat with multi
 # 2. AI QUIZ GENERATOR #
 to take prompt as input and generate number of mcqs you given in input
 
-![1](https://github.com/user-attachments/assets/4dec6175-56a7-4455-aeaa-f56a2dccb16b)
+# Work Flow
+![Flow](https://github.com/user-attachments/assets/4e7ab596-ae2e-46b4-92e1-eb6ce735401f)
+
 
 
 # 3. Lesson Planner #
